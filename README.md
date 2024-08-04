@@ -20,9 +20,9 @@ I'm a beginner developer focusing on the MERN stack (MongoDB, Express.js, React,
 - Integrating MongoDB for data storage
 - Enhancing frontend skills with React
 
-## 📚 Current Projects
+<!-- ## 📚 Current Projects
 
-Feel free to check out my [GH Projects page](https://github.com/RabbitHole26?tab=repositories&q=&type=public&language=&sort=).
+Feel free to check out my [GH Projects page](https://github.com/RabbitHole26?tab=repositories&q=&type=public&language=&sort=). -->
 
 <!-- <div style="background-color: #ccc; margin: 50px; padding: 10px; border-radius: 10px; font-family: Arial, sans-serif; color: #2c2c2c;">
   "Man becomes, as it were, the sex organs of the machine world, as the bee of the plant world, enabling it to fecundate and to evolve ever new forms. The machine world reciprocates man's love by expediting his wishes and desires, namely, in providing him with wealth."
