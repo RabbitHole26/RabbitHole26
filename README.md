@@ -8,7 +8,7 @@ I'm a beginner developer focusing on the MERN stack (MongoDB, Express.js, React,
 
 ## 🔧 Technologies & Tools
 
-- **Frontend:** React, HTML, CSS, JavaScript
+- **Frontend:** React, HTML, CSS, SASS, Tailwind, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Others:** Git, GitHub
